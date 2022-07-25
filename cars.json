@@ -1,0 +1,136 @@
+{
+	
+		"Car": [
+			{
+				"ProductID": "1",
+				"Category": "sedan",
+				"Availability": "true",
+				"Brand": "Toyota",
+				"Model": "Camry",
+				"Model_year": "2013",
+				"Mileage": "10,000",
+				"Fuel_type": "petrol",
+				"Seats": "5",
+				"Price_per_day": "250",
+				"Description": "The 2013 Camry is definitely a good used midsize car . The Camry is consistently one of the best-selling used cars because it has great reliability, lots of interior space, and a good price. The Camry is available with two capable engine choices that both deliver good fuel economy."
+			},
+			{
+				"ProductID": "2",
+				"Category": "SUV",
+				"Availability": "true",
+				"Brand": "Nissan",
+				"Model": "XTrail",
+				"Model_year": "2018",
+				"Mileage": "25,000",
+				"Fuel_type": "petrol",
+				"Seats": "5",
+				"Price_per_day": "230",
+				"Description": "The current model Nissan X-Trail is the third-generation of the popular soft-roader and was initially unveiled in 2013"
+			},
+			{
+				"ProductID": "3",
+				"Category": "Wagon",
+				"Availability": "true",
+				"Brand": "Volkswagen",
+				"Model": "Golf",
+				"Model_year": "2018",
+				"Mileage": "50,000",
+				"Fuel_type": "petrol",
+				"Seats": "4",
+				"Price_per_day": "180",
+				"Description": "The 2021 Volkswagen Golf has lively handling, great cargo space, and a high-end cabin, but its infotainment system is disappointing and its acceleration could be better on the highway."
+			},
+			{
+				"ProductID": "4",
+				"Category": "sedan",
+				"Availability": "false",
+				"Brand": "Holden",
+				"Model": "Civic",
+				"Model_year": "2018",
+				"Mileage": "30,000",
+				"Fuel_type": "petrol",
+				"Seats": "4",
+				"Price_per_day": "200",
+				"Description": "The Honda Civic ranks in the top third of the highly competitive compact car class. The Civic has excellent driving dynamics, refined engines, great safety scores, and an interior that is both upscale and roomy."
+			},
+			{
+				"ProductID": "5",
+				"Category": "sedan",
+				"Availability": "true",
+				"Brand": "BMW",
+				"Model": "320i",
+				"Model_year": "2014",
+				"Mileage": "23,000",
+				"Fuel_type": "petrol",
+				"Seats": "5",
+				"Price_per_day": "300",
+				"Description": "The 2014 BMW 3 Series has terrific power and a smooth ride with nimble handling. Inside, you’ll find more user-friendly tech and rear-seat room than most rivals."
+			},
+			{
+				"ProductID": "6",
+				"Category": "SUV",
+				"Availability": "false",
+				"Brand": "Jeep",
+				"Model": "Cherokee",
+				"Model_year": "2018",
+				"Mileage": "15,000",
+				"Fuel_type": "petrol",
+				"Seats": "6",
+				"Price_per_day": "220",
+				"Description": "The 2018 Jeep Cherokee ranks near the back of the competitive compact SUV class. It has an upscale interior, great off-road performance, and balanced handling. It’s held back by its below-average predicted reliability rating and safety scores."
+			},
+			{
+				"ProductID": "7",
+				"Category": "SUV",
+				"Availability": "true",
+				"Brand": "Holden",
+				"Model": "Captiva",
+				"Model_year": "2009",
+				"Mileage": "60,000",
+				"Fuel_type": "petrol",
+				"Seats": "4",
+				"Price_per_day": "150",
+				"Description": "This is what David Morley liked most about this particular version of the Holden Captiva: Sold well, so plenty of choice., High and mighty driving position."
+			},
+			{
+				"ProductID": "8",
+				"Category": "SUV",
+				"Availability": "true",
+				"Brand": "Benz",
+				"Model": "GLC",
+				"Model_year": "2015",
+				"Mileage": "40,000",
+				"Fuel_type": "petrol",
+				"Seats": "5",
+				"Price_per_day": "320",
+				"Description": "It's the first time Mercedes-Benz has offered its competitor to the Audi Q5 in right-hand drive, its new C-Class-based SUV range entering an important and popular segment in the Australian new car market."
+			},
+			{
+				"ProductID": "9",
+				"Category": "Wagon",
+				"Availability": "true",
+				"Brand": "Suzuki",
+				"Model": "Jimny",
+				"Model_year": "2019",
+				"Mileage": "50,000",
+				"Fuel_type": "petrol",
+				"Seats": "4",
+				"Price_per_day": "260",
+				"Description": "The Suzuki Jimny, despite being small and a bit impractical, has always been held in fond regard by drivers who recognise its abilities. It is not a car that follows fashions or trends."
+			},
+			{
+				"ProductID": "10",
+				"Category": "sedan",
+				"Availability": "false",
+				"Brand": "Hyundai",
+				"Model": "Sonata",
+				"Model_year": "2015",
+				"Mileage": "50,000",
+				"Fuel_type": "petrol",
+				"Seats": "5",
+				"Price_per_day": "180",
+				"Description": "The 2015 Hyundai Sonata's #3 ranking is based on its score within the 2015 Affordable Midsize Cars category. It is the winner of our 2015 Best Midsize Car for the Money award and the winner of our 2015 Best Midsize Car for Families award."
+			}
+		]
+	
+}
